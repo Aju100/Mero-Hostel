@@ -152,8 +152,22 @@ header nav li {
 }
 
 
+/* Destinations Sections */
+.destinations .grid li{
+    height: 350px;
+    padding: 20px;
+    background-clip:content-box;
+    background-size:cover;
+    background-position:center;
+}
 
+.destinations .grid li.small{
+    flex-basis:30%;
+}
 
+.destinations .grid li.large{
+    flex-basis: 70%;
+}
 
 
 
