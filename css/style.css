@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font:normal 16px sans-serif;
+    color:#555;
+}
+
+body{
+    font-family:"Quick Sand",sans-serif;
+    src:url(../fonts/Open_Sans/OpenSans-Regular.ttf);
+    src:url(../fonts/Quicksand/Quicksand-Medium.ttf);
+}
+
+
+nav{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    opacity: 0.75;
+}
+
+a:hover{
+     opacity: 1;
+}
+
+a.btn{
+    border-radius: 4px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+    background-color: blue;
+    opacity: 1;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    padding: 100px 80px;
+}
+/* header */
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 35p 100px 0;
+    animation:1s fadein 0.5s forwards;
+    opacity: 0;
+}
+
+@keyframes fadein{
+    100%{
+        opacity: 1;
+    }
+}
+
+header h2{
+    font-family: "Quicksand",sans-serif;
+}
+
+header nav{
+    display: flex;
+    margin-right: -15px;
+}
+
+header nav li{
+    margin: 0 15px;
+}
