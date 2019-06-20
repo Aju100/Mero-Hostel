@@ -1,4 +1,4 @@
 # Bihani Hostel
 
-Screenshots
+##Screenshots
 ![alt text](./screenshots/home.png)
