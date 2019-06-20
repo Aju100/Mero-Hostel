@@ -13,3 +13,9 @@
 
 #### Footer
 ![alt text](./screenshots/footer.png)
+
+
+# Author
+- Aju Tamang
+
+Made with HTML and CSS
