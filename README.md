@@ -2,14 +2,14 @@
 
 ## Screenshots
 
-### Homepage
+#### Homepage
 ![alt text](./screenshots/home.png)
 
-### Features
+#### Features
 ![alt text](./screenshots/features.png)
 
-### Testimonials
+#### Testimonials
 ![alt text](./screenshots/testimonials.png)
 
-### Footer
+#### Footer
 ![alt text](./screenshots/footer.png)
