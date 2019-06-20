@@ -26,11 +26,12 @@ a:hover {
 }
 
 a.btn {
-	border-radius: 4px;
+	border-radius: 6px;
 	text-transform: uppercase;
 	font-weight: bold;
 	text-align: center;
 	background-color: #3f51b5;
+	color: #fff;
 	opacity: 1;
 }
 
@@ -233,8 +234,12 @@ footer ul{
 
 footer ul li{
 	margin-left:16px;
+	text-align: left;
 }
 
+footer ul li h3{
+	align-content: left;
+}
 footer p{
 	text-transform: uppercase;
 	font-size: 14px;
