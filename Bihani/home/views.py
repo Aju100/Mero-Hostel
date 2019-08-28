@@ -1,5 +1,8 @@
-from django.shortcuts import render
+from django.shortcuts import render,get_object_or_404,redirect
 from django.http import HttpResponse, HttpResponseRedirect
+import os
+
 
 def home(request):
-    return render(request,'index.html')
+    template_name="index.html"
+    return render(request,template_name)
