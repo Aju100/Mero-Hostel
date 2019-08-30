@@ -27,7 +27,8 @@
                 </header>
                 <!--Main Section-->
         <section class="main">
-                <div class="background-image" style="background-image:url(images/background.jpg);"></div>
+            {% load staticfiles %}
+                <div class="background-image" style="background-image: url('{% static "images/background.jpg"%}')";></div>
                 <div class="main-content">
                     <h1>Bihani Hostel</h1>
                     <h3>Come and stay awesome time with us</h3>
