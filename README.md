@@ -19,10 +19,10 @@
 - Aju Tamang
 
 # Technologies
-## FRONTEND
+### Frontend 
 - HTML5
 - CSS3
 
-# BACKEND
+### Backend
 - Python & Django
 - SQLITE (Database)
