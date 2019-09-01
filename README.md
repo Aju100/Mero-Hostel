@@ -2,11 +2,11 @@
 
 ## SETUP
 ### For WINDOWS
-- Create a virtualenv in windows, make sure you install python 3.x version
+- [x] Create a virtualenv in windows, make sure you install python 3.x version
 
        * `virtualenv Bihani`
    
-- Activate virtualenv
+- [x] Activate virtualenv
        
        * `cd Bihani`
        
@@ -15,14 +15,14 @@
        * `activate.bat`
        
        * `cd ..`
-- Clone the project  
+- [x] Clone the project  
    
-- Install Python packages
+- [x] Install Python packages
 
        * `pip install -r requirements.txt`         
 
 ### FOR LINUX
-- comming soon
+- coming soon
 
 ## Screenshots
 
