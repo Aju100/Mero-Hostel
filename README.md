@@ -7,13 +7,17 @@
        * `virtualenv Bihani`
    
 - Activate virtualenv
+       
        * `cd Bihani`
+       
        * `cd scripts`
+       
        * `activate.bat`
+       
        * `cd ..`
 - Clone the project  
    
-    -[x] Install Python packages
+-[x] Install Python packages
        * `pip install -r requirements.txt`         
 
 ### FOR LINUX
