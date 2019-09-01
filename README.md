@@ -1,7 +1,6 @@
 # Bihani Hostel
 
 ## SETUP
-### For WINDOWS
    -[x] Create a virtualenv in windows, make sure you install python 3.x version
        * `virtualenv Bihani`
     -[x] Activate virtualenv
