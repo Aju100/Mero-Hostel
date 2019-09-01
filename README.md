@@ -18,6 +18,7 @@
 - Clone the project  
    
 - Install Python packages
+
        * `pip install -r requirements.txt`         
 
 ### FOR LINUX
