@@ -18,4 +18,11 @@
 # Author
 - Aju Tamang
 
-Made with HTML and CSS
+# Technologies
+## FRONTEND
+- HTML5
+- CSS3
+
+# BACKEND
+- Python & Django
+- SQLITE (Database)
