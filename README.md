@@ -48,8 +48,13 @@
 - CSS3
 
 ### Backend
-- Python & Django
-- SQLITE (Database)
+
+Python & Django
+SQLITE (Database)
+
+## Get Feedback
+
+- This repository: Submit a PR with your README!
 
 ## Contribute
 
