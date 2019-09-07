@@ -27,6 +27,25 @@ let us consider a Tree as a class.
 
 # Datatypes
 - Primitive Datatype 
-  - Number
-  - Booleans
-  - Character
+  - Number (integer[int], float[float],double [double] ) // float is smaller than double
+  - Booleans (0 or 1, True or False, Yes or No)
+  - Character (char)
+- Referred Datatype
+
+# Example of Referred Datatype
+- Arrays
+- Queues
+- Linked List
+- Stack
+- many more
+
+
+
+
+
+
+
+
+
+
+
